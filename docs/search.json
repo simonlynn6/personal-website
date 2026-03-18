@@ -21,6 +21,20 @@
     "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
   },
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Personal Blog",
+    "section": "",
+    "text": "Is ‘Private’ Science Still Science?\n\n\n\nopinion\n\n\n\n\n\n\n\n\n\nMar 17, 2026\n\n\nSimon Lynn\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/post_3-17-26/index.html",
+    "href": "blog/post_3-17-26/index.html",
+    "title": "Is ‘Private’ Science Still Science?",
+    "section": "",
+    "text": "Recently, as I read How To Be A Modern Scientist, by Jeff Leek, I came across a section I had qualms about. In the section titled “Data sharing - what tools should I use?”, Leek says, “a paper can not be considered to be scientific if the results are not verifiable by anyone.” (How To Be A Modern Scientist, Leek, p. 26). It’s an interesting argument: the cornerstone of the scientific method is reproducibility. If a researcher uses a private dataset from a company, and an outsider can’t replicate that study step-for-step, is it still “science”?\nComing from the medical side of statistics, some of the most valuable data we work with is private. If we decide that results must be verifiable by literally anyone, we are shutting down any opportunities to learn in fields such as personalized medicine and transactional data. Working with genomic data in personalized medicine is unique to the point where “anonymizing” it becomes practically impossible. In economic data, we can explain how wealth is moving, but it belongs to citizens who deserve to have their economic situation private. By throwing out this work, we aren’t protecting the “scientific process”, but instead we are ensuring that the most important insights remain locked inside corporate boardrooms rather than being peer-reviewed and published.\nThe biggest misconception in this debate is that “verifiable” must mean “public.” Science has already developed sophisticated ways to check a researcher’s steps without compromising privacy: governed access, simulated data, and audited code. We can give extremely strict access to independent teams to verify findings, but I find that saying ‘anyone’ should be able to verify work as extreme. We can create simulated data sets, from things such as summary statistics, that looks and acts like our private data without containing sensitive information. Even if the data is hidden, we should be able to verify the code used to analyze the data publicly.\nInstead of viewing private data with inherent suspicion, we should look for a transparency of process. A credible paper using private data should be judged by how clearly it outlines the path to verification. Does it explain how a peer could apply for the same data? Is the methodology documented well enough that the results could be simulated? If we disqualify research simply because the data requires a security clearance or a legal agreement, we aren’t being “more scientific”, I believe we’re just becoming less informed.\nHuge thanks to Jeff Leek for an otherwise extremely informative book. It’s packed with great advice for scientists at every level, even if we don’t see eye-to-eye on the “anyone” vs. “someone” debate of data sharing."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduction",
